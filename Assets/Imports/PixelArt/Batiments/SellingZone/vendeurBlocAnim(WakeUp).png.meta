@@ -1,0 +1,734 @@
+fileFormatVersion: 2
+guid: fb2ea8d61bb95134aa2a81da28942331
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5110736591382547599
+    second: vendeurBlocAnim(WakeUp)_0
+  - first:
+      213: -8573179538290171160
+    second: vendeurBlocAnim(WakeUp)_1
+  - first:
+      213: 7646039205552396121
+    second: vendeurBlocAnim(WakeUp)_2
+  - first:
+      213: -6162931008714075414
+    second: vendeurBlocAnim(WakeUp)_3
+  - first:
+      213: 2001343415842050348
+    second: vendeurBlocAnim(WakeUp)_4
+  - first:
+      213: 5464466675496983041
+    second: vendeurBlocAnim(WakeUp)_5
+  - first:
+      213: -3417925718057570893
+    second: vendeurBlocAnim(WakeUp)_6
+  - first:
+      213: 9015010390294387076
+    second: vendeurBlocAnim(WakeUp)_7
+  - first:
+      213: 7591358400230637389
+    second: vendeurBlocAnim(WakeUp)_8
+  - first:
+      213: -4558568819142967864
+    second: vendeurBlocAnim(WakeUp)_9
+  - first:
+      213: 8642715977507917059
+    second: vendeurBlocAnim(WakeUp)_10
+  - first:
+      213: -4087333245427197899
+    second: vendeurBlocAnim(WakeUp)_11
+  - first:
+      213: 7884025466241770100
+    second: vendeurBlocAnim(WakeUp)_12
+  - first:
+      213: -5051487614703496033
+    second: vendeurBlocAnim(WakeUp)_13
+  - first:
+      213: 906922083456740513
+    second: vendeurBlocAnim(WakeUp)_14
+  - first:
+      213: -8940997229961884629
+    second: vendeurBlocAnim(WakeUp)_15
+  - first:
+      213: -4520679427838966799
+    second: vendeurBlocAnim(WakeUp)_16
+  - first:
+      213: 8378853098894475830
+    second: vendeurBlocAnim(WakeUp)_17
+  - first:
+      213: -2158837477342625738
+    second: vendeurBlocAnim(WakeUp)_18
+  - first:
+      213: -3872293043040323842
+    second: vendeurBlocAnim(WakeUp)_19
+  - first:
+      213: -2129832164183247432
+    second: vendeurBlocAnim(WakeUp)_20
+  - first:
+      213: 9007565744919343962
+    second: vendeurBlocAnim(WakeUp)_21
+  - first:
+      213: -3416380167264516840
+    second: vendeurBlocAnim(WakeUp)_22
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 25
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 16384
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1737d02e5240319b0800000000000000
+      internalID: -5110736591382547599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_1
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e22190f1a2f50980800000000000000
+      internalID: -8573179538290171160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_2
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95719a1a5203c1a60800000000000000
+      internalID: 7646039205552396121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae29b5276eed87aa0800000000000000
+      internalID: -6162931008714075414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_4
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2115deab3336cb10800000000000000
+      internalID: 2001343415842050348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_5
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10a15f74d7fa5db40800000000000000
+      internalID: 5464466675496983041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_6
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bda18a1ba61190d0800000000000000
+      internalID: -3417925718057570893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_7
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 489d3f7bf20cb1d70800000000000000
+      internalID: 9015010390294387076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_8
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4fbc688e3ce95960800000000000000
+      internalID: 7591358400230637389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_9
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8cdbfc2bfc5bcb0c0800000000000000
+      internalID: -4558568819142967864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_10
+      rect:
+        serializedVersion: 2
+        x: 750
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 30dc3f5f36811f770800000000000000
+      internalID: 8642715977507917059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_11
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 538daa3a110e647c0800000000000000
+      internalID: -4087333245427197899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_12
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4726973e36fa96d60800000000000000
+      internalID: 7884025466241770100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_13
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f94105247c285e9b0800000000000000
+      internalID: -5051487614703496033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_14
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ac656f64d8069c00800000000000000
+      internalID: 906922083456740513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_15
+      rect:
+        serializedVersion: 2
+        x: 1125
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2cce5a04623be380800000000000000
+      internalID: -8940997229961884629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_16
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f30e3013025341c0800000000000000
+      internalID: -4520679427838966799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_17
+      rect:
+        serializedVersion: 2
+        x: 1275
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63249c8108aa74470800000000000000
+      internalID: 8378853098894475830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_18
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630413b90c44a02e0800000000000000
+      internalID: -2158837477342625738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_19
+      rect:
+        serializedVersion: 2
+        x: 1425
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef67d5f5ef9d24ac0800000000000000
+      internalID: -3872293043040323842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_20
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8b5f7a65ee05172e0800000000000000
+      internalID: -2129832164183247432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_21
+      rect:
+        serializedVersion: 2
+        x: 1575
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a53f4e4225d410d70800000000000000
+      internalID: 9007565744919343962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vendeurBlocAnim(WakeUp)_22
+      rect:
+        serializedVersion: 2
+        x: 1650
+        y: 6
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8154280b6549690d0800000000000000
+      internalID: -3416380167264516840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      vendeurBlocAnim(WakeUp)_21: 9007565744919343962
+      vendeurBlocAnim(WakeUp)_15: -8940997229961884629
+      vendeurBlocAnim(WakeUp)_0: -5110736591382547599
+      vendeurBlocAnim(WakeUp)_6: -3417925718057570893
+      vendeurBlocAnim(WakeUp)_17: 8378853098894475830
+      vendeurBlocAnim(WakeUp)_18: -2158837477342625738
+      vendeurBlocAnim(WakeUp)_3: -6162931008714075414
+      vendeurBlocAnim(WakeUp)_8: 7591358400230637389
+      vendeurBlocAnim(WakeUp)_12: 7884025466241770100
+      vendeurBlocAnim(WakeUp)_16: -4520679427838966799
+      vendeurBlocAnim(WakeUp)_20: -2129832164183247432
+      vendeurBlocAnim(WakeUp)_5: 5464466675496983041
+      vendeurBlocAnim(WakeUp)_10: 8642715977507917059
+      vendeurBlocAnim(WakeUp)_11: -4087333245427197899
+      vendeurBlocAnim(WakeUp)_2: 7646039205552396121
+      vendeurBlocAnim(WakeUp)_13: -5051487614703496033
+      vendeurBlocAnim(WakeUp)_7: 9015010390294387076
+      vendeurBlocAnim(WakeUp)_4: 2001343415842050348
+      vendeurBlocAnim(WakeUp)_14: 906922083456740513
+      vendeurBlocAnim(WakeUp)_19: -3872293043040323842
+      vendeurBlocAnim(WakeUp)_9: -4558568819142967864
+      vendeurBlocAnim(WakeUp)_22: -3416380167264516840
+      vendeurBlocAnim(WakeUp)_1: -8573179538290171160
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,73 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - trigerCam
+  - triggerZone
+  - chains
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Background
+    uniqueID: 3733577277
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BehindBloc
+    uniqueID: 2608142951
+    locked: 0
+  - name: Bloc
+    uniqueID: 1328731525
+    locked: 0
+  - name: InfrontBlocs
+    uniqueID: 1204082247
+    locked: 0
+  - name: Chains&Treuil
+    uniqueID: 1513573189
+    locked: 0
+  - name: UIWorld
+    uniqueID: 41815683
+    locked: 0
+  - name: Player
+    uniqueID: 2823548087
+    locked: 0
+  - name: ForeGround
+    uniqueID: 1905236049
+    locked: 0
+  - name: UI
+    uniqueID: 1304916395
+    locked: 0

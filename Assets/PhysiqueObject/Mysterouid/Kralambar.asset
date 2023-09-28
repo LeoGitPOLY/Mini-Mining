@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f19736ce9bdd540ab9e7750b65feb7, type: 3}
+  m_Name: Kralambar
+  m_EditorClassIdentifier: 
+  spr_Bloc: {fileID: 21300000, guid: 3b8be03d2572c644b9daf18123c48145, type: 3}
+  spr_Museum: {fileID: 21300000, guid: 305ecd229d7845340bd24a9fb1a749f7, type: 3}

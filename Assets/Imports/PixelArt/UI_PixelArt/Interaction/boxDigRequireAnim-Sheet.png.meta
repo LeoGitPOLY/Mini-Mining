@@ -1,0 +1,999 @@
+fileFormatVersion: 2
+guid: 516964992253a0044b2e5f3d9c7a40d3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -875103673475515832
+    second: boxDigRequireAnim-Sheet_0
+  - first:
+      213: -4285586171736655799
+    second: boxDigRequireAnim-Sheet_1
+  - first:
+      213: -417965572450280050
+    second: boxDigRequireAnim-Sheet_2
+  - first:
+      213: -4411013589721687810
+    second: boxDigRequireAnim-Sheet_3
+  - first:
+      213: -7871308043039680309
+    second: boxDigRequireAnim-Sheet_4
+  - first:
+      213: 6155351662186665366
+    second: boxDigRequireAnim-Sheet_5
+  - first:
+      213: -8374563745081552533
+    second: boxDigRequireAnim-Sheet_6
+  - first:
+      213: 1977423363533757517
+    second: boxDigRequireAnim-Sheet_7
+  - first:
+      213: 3339788419111897109
+    second: boxDigRequireAnim-Sheet_8
+  - first:
+      213: 3593798439593114757
+    second: boxDigRequireAnim-Sheet_9
+  - first:
+      213: -7339977602021351866
+    second: boxDigRequireAnim-Sheet_10
+  - first:
+      213: 5502012894116172929
+    second: boxDigRequireAnim-Sheet_11
+  - first:
+      213: -3890354886500177396
+    second: boxDigRequireAnim-Sheet_12
+  - first:
+      213: 2764286500466847257
+    second: boxDigRequireAnim-Sheet_13
+  - first:
+      213: -6476693222794975249
+    second: boxDigRequireAnim-Sheet_14
+  - first:
+      213: 6816056277663115379
+    second: boxDigRequireAnim-Sheet_15
+  - first:
+      213: 609750365933896047
+    second: boxDigRequireAnim-Sheet_16
+  - first:
+      213: -8412663994709589485
+    second: boxDigRequireAnim-Sheet_17
+  - first:
+      213: 2228769537749625006
+    second: boxDigRequireAnim-Sheet_18
+  - first:
+      213: 7294333143760770210
+    second: boxDigRequireAnim-Sheet_19
+  - first:
+      213: 527252565194899036
+    second: boxDigRequireAnim-Sheet_20
+  - first:
+      213: -2980583575830877613
+    second: boxDigRequireAnim-Sheet_21
+  - first:
+      213: -1373838876726651432
+    second: boxDigRequireAnim-Sheet_22
+  - first:
+      213: -7611919752007283
+    second: boxDigRequireAnim-Sheet_23
+  - first:
+      213: -3656484703177202234
+    second: boxDigRequireAnim-Sheet_24
+  - first:
+      213: 6631807434341569583
+    second: boxDigRequireAnim-Sheet_25
+  - first:
+      213: -2769646079238770233
+    second: boxDigRequireAnim-Sheet_26
+  - first:
+      213: 3724984770230139644
+    second: boxDigRequireAnim-Sheet_27
+  - first:
+      213: 9209475250983812851
+    second: boxDigRequireAnim-Sheet_28
+  - first:
+      213: 6447217381717094953
+    second: boxDigRequireAnim-Sheet_29
+  - first:
+      213: 2947121841977838731
+    second: boxDigRequireAnim-Sheet_0
+  - first:
+      213: -7579889350204726324
+    second: boxDigRequireAnim-Sheet_1
+  - first:
+      213: -9213891256101139226
+    second: boxDigRequireAnim-Sheet_2
+  - first:
+      213: 5855917287603655974
+    second: boxDigRequireAnim-Sheet_3
+  - first:
+      213: -5093319145377538303
+    second: boxDigRequireAnim-Sheet_4
+  - first:
+      213: -1051768338010646175
+    second: boxDigRequireAnim-Sheet_5
+  - first:
+      213: 4609360599671541766
+    second: boxDigRequireAnim-Sheet_6
+  - first:
+      213: 7892483162264242536
+    second: boxDigRequireAnim-Sheet_7
+  - first:
+      213: -2445320396412134290
+    second: boxDigRequireAnim-Sheet_8
+  - first:
+      213: -8415419095482572827
+    second: boxDigRequireAnim-Sheet_9
+  - first:
+      213: 4615023625693570438
+    second: boxDigRequireAnim-Sheet_10
+  - first:
+      213: -5710056652385642956
+    second: boxDigRequireAnim-Sheet_11
+  - first:
+      213: 1107078955046434984
+    second: boxDigRequireAnim-Sheet_12
+  - first:
+      213: 117688276814260936
+    second: boxDigRequireAnim-Sheet_13
+  - first:
+      213: 7874088855915529735
+    second: boxDigRequireAnim-Sheet_14
+  - first:
+      213: 1422818353900843881
+    second: boxDigRequireAnim-Sheet_15
+  - first:
+      213: -2730788385935846953
+    second: boxDigRequireAnim-Sheet_16
+  - first:
+      213: 2988388659932981707
+    second: boxDigRequireAnim-Sheet_17
+  - first:
+      213: 6903581770602929568
+    second: boxDigRequireAnim-Sheet_18
+  - first:
+      213: -3860387703394425949
+    second: boxDigRequireAnim-Sheet_19
+  - first:
+      213: -5268748822555407210
+    second: boxDigRequireAnim-Sheet_20
+  - first:
+      213: -5916531594093695820
+    second: boxDigRequireAnim-Sheet_21
+  - first:
+      213: -4761109682007132395
+    second: boxDigRequireAnim-Sheet_22
+  - first:
+      213: -4389407597681296086
+    second: boxDigRequireAnim-Sheet_23
+  - first:
+      213: 2369386853644519329
+    second: boxDigRequireAnim-Sheet_24
+  - first:
+      213: -2524603197613278588
+    second: boxDigRequireAnim-Sheet_25
+  - first:
+      213: 2831166719044660587
+    second: boxDigRequireAnim-Sheet_26
+  - first:
+      213: 2719291054614352834
+    second: boxDigRequireAnim-Sheet_27
+  - first:
+      213: -5767870480563677048
+    second: boxDigRequireAnim-Sheet_28
+  - first:
+      213: -5624746124595339468
+    second: boxDigRequireAnim-Sheet_29
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 1
+    alphaTestReferenceValue: 1
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 0
+    wrapV: 0
+    wrapW: 0
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 1
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 4096
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8c42e463b746e820800000000000000
+      internalID: -875103673475515832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc3e744cbc2dec690800000000000000
+      internalID: -4285586171736655799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ec830948bea12080800000000000000
+      internalID: -417965572450280050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6255fa14fb5644150800000000000000
+      internalID: -4411013589721687810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 10f531c0935e059b0800000000000000
+      internalID: -7871308043039680309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1695fd2e44e5761f0800000000000000
+      internalID: 6155351662186665366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6009a114b0db7ff30800000000000000
+      internalID: -8374563745081552533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8690382be9bb78d60800000000000000
+      internalID: 1977423363533757517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 800
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c56d92e0a701ed0800000000000000
+      internalID: 3339788419111897109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5efd8b16bec663b80800000000000000
+      internalID: 3593798439593114757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 685208f398bdb0040800000000000000
+      internalID: -7339977602021351866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43692335abdc1c0b0800000000000000
+      internalID: 5502012894116172929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a87adda1722d5f00800000000000000
+      internalID: -3890354886500177396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8caedbd3ddc12a100800000000000000
+      internalID: 2764286500466847257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70605b28812664d60800000000000000
+      internalID: -6476693222794975249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 1500
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9637a2421cddeb310800000000000000
+      internalID: 6816056277663115379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 1600
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d1188b6e6a4a1ad0800000000000000
+      internalID: 609750365933896047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 1700
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc96c1e27a3e87920800000000000000
+      internalID: -8412663994709589485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_18
+      rect:
+        serializedVersion: 2
+        x: 1800
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ad56aa2b037ecf50800000000000000
+      internalID: 2228769537749625006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_19
+      rect:
+        serializedVersion: 2
+        x: 1900
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3a3a3e346d52d6ac0800000000000000
+      internalID: 7294333143760770210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_20
+      rect:
+        serializedVersion: 2
+        x: 2000
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cc3d46cd4a1e6b0800000000000000
+      internalID: 527252565194899036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_21
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4bc6bafbcd144eda0800000000000000
+      internalID: -2980583575830877613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_22
+      rect:
+        serializedVersion: 2
+        x: 2200
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 517ba4b38f32dedb0800000000000000
+      internalID: -1373838876726651432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_23
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2d3ec5cb01b513c0800000000000000
+      internalID: -7611919752007283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_24
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a746f23ac0c1e020800000000000000
+      internalID: -3656484703177202234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_25
+      rect:
+        serializedVersion: 2
+        x: 2500
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48af17784cec6fcd0800000000000000
+      internalID: 6631807434341569583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_26
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6da09c71235a4720800000000000000
+      internalID: -2769646079238770233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_27
+      rect:
+        serializedVersion: 2
+        x: 2700
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c39f278eccdcb520800000000000000
+      internalID: 3724984770230139644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_28
+      rect:
+        serializedVersion: 2
+        x: 2800
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8885a8f7b5864ffa0800000000000000
+      internalID: 9209475250983812851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: boxDigRequireAnim-Sheet_29
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 0
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43f5dbb6333e0f1b0800000000000000
+      internalID: 6447217381717094953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      boxDigRequireAnim-Sheet_2: -417965572450280050
+      boxDigRequireAnim-Sheet_4: -7871308043039680309
+      boxDigRequireAnim-Sheet_9: 3593798439593114757
+      boxDigRequireAnim-Sheet_25: 6631807434341569583
+      boxDigRequireAnim-Sheet_21: -2980583575830877613
+      boxDigRequireAnim-Sheet_23: -7611919752007283
+      boxDigRequireAnim-Sheet_26: -2769646079238770233
+      boxDigRequireAnim-Sheet_3: -4411013589721687810
+      boxDigRequireAnim-Sheet_19: 7294333143760770210
+      boxDigRequireAnim-Sheet_27: 3724984770230139644
+      boxDigRequireAnim-Sheet_0: -875103673475515832
+      boxDigRequireAnim-Sheet_5: 6155351662186665366
+      boxDigRequireAnim-Sheet_6: -8374563745081552533
+      boxDigRequireAnim-Sheet_29: 6447217381717094953
+      boxDigRequireAnim-Sheet_17: -8412663994709589485
+      boxDigRequireAnim-Sheet_13: 2764286500466847257
+      boxDigRequireAnim-Sheet_18: 2228769537749625006
+      boxDigRequireAnim-Sheet_28: 9209475250983812851
+      boxDigRequireAnim-Sheet_15: 6816056277663115379
+      boxDigRequireAnim-Sheet_1: -4285586171736655799
+      boxDigRequireAnim-Sheet_16: 609750365933896047
+      boxDigRequireAnim-Sheet_8: 3339788419111897109
+      boxDigRequireAnim-Sheet_22: -1373838876726651432
+      boxDigRequireAnim-Sheet_14: -6476693222794975249
+      boxDigRequireAnim-Sheet_10: -7339977602021351866
+      boxDigRequireAnim-Sheet_7: 1977423363533757517
+      boxDigRequireAnim-Sheet_24: -3656484703177202234
+      boxDigRequireAnim-Sheet_11: 5502012894116172929
+      boxDigRequireAnim-Sheet_12: -3890354886500177396
+      boxDigRequireAnim-Sheet_20: 527252565194899036
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

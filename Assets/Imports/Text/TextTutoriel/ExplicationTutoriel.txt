@@ -1,0 +1,5 @@
+Move with <color=#FF0000>the joystick</color>
+<color=#FF0000>Slide</color> and <color=#FF0000>hold</color> to mine blocks
+Move up and down with <color=#FF0000>the joystick</color>
+Install a new winch with <color=#FF0000>double tap</color>
+Watch out not to <color=#FF0000>get stuck</color>

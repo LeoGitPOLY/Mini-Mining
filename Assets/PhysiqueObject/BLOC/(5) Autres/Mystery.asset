@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b98bcaca4be6a4a86686915555c788, type: 3}
+  m_Name: Mystery
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 779557109326957391, guid: c3de3b6ccf4122c41aff2b895a48c107,
+    type: 3}
+  sprite:
+  - {fileID: 21300000, guid: 35de6abdf73bcb54db327d8d658cc952, type: 3}
+  - {fileID: 21300000, guid: 839b007a893c4b44a8fa43df48e18a53, type: 3}
+  - {fileID: 21300000, guid: 2c5d1175a1729264d9466d533937345d, type: 3}
+  - {fileID: 21300000, guid: 7704ac23c57060249ad292e442a216c8, type: 3}
+  - {fileID: 21300000, guid: a00531313ea49d54b8cd4c2fdc63a868, type: 3}
+  - {fileID: 21300000, guid: 3b8be03d2572c644b9daf18123c48145, type: 3}
+  typeCell: 20
+  nivBloc: 0
+  isBuyable: 0
+  solidite: 10
+  valeur: 0
+  color: {r: 0, g: 0, b: 0, a: 0}
+  lowRezTexture: {fileID: -5116081315363770791, guid: f0f0d3e4c99d1a541806cb852181fbb6,
+    type: 3}

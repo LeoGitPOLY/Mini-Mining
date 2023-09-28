@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 85b98bcaca4be6a4a86686915555c788, type: 3}
+  m_Name: Treuil
+  m_EditorClassIdentifier: 
+  gameObject: {fileID: 5876441913459309215, guid: aaa44c3c48193de4ea6ab7b277646c22,
+    type: 3}
+  sprite:
+  - {fileID: 21300000, guid: b23c6d6cd92e06444868f923ff91be13, type: 3}
+  - {fileID: 21300000, guid: 1e99a130d9721b3449f5c72ce3481fbb, type: 3}
+  typeCell: 17
+  nivBloc: 0
+  isBuyable: 0
+  solidite: 1
+  valeur: 0
+  color: {r: 0, g: 0, b: 0, a: 0}
+  lowRezTexture: {fileID: -5412834171790527387, guid: f0f0d3e4c99d1a541806cb852181fbb6,
+    type: 3}

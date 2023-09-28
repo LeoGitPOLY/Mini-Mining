@@ -1,0 +1,1083 @@
+fileFormatVersion: 2
+guid: 803441cf6327e9840aba874bbae64c84
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6271520294331197364
+    second: menuAmeliorations_CaseColor1_0
+  - first:
+      213: -3456761347034828167
+    second: menuAmeliorations_CaseColor1_1
+  - first:
+      213: 1261169483363610136
+    second: menuAmeliorations_CaseColor1_2
+  - first:
+      213: -3872889517726870769
+    second: menuAmeliorations_CaseColor1_3
+  - first:
+      213: 7964184228175581128
+    second: menuAmeliorations_CaseColor1_4
+  - first:
+      213: 5730818577110088845
+    second: menuAmeliorations_CaseColor1_5
+  - first:
+      213: -3254404366244791470
+    second: menuAmeliorations_CaseColor1_6
+  - first:
+      213: 3055781395884855060
+    second: menuAmeliorations_CaseColor1_7
+  - first:
+      213: -4002485970756994878
+    second: menuAmeliorations_CaseColor1_8
+  - first:
+      213: 1592090977977065946
+    second: menuAmeliorations_CaseColor1_9
+  - first:
+      213: 2556396839250117490
+    second: menuAmeliorations_CaseColor1_10
+  - first:
+      213: -1268927329174430480
+    second: menuAmeliorations_CaseColor1_11
+  - first:
+      213: 8072121083302496748
+    second: menuAmeliorations_CaseColor1_12
+  - first:
+      213: -6544246954987120922
+    second: menuAmeliorations_CaseColor1_13
+  - first:
+      213: 7009540860030560725
+    second: menuAmeliorations_CaseColor1_14
+  - first:
+      213: 7997158409557038714
+    second: menuAmeliorations_CaseColor1_15
+  - first:
+      213: 6709578601030212649
+    second: menuAmeliorations_CaseColor1_16
+  - first:
+      213: -6732464766288447881
+    second: menuAmeliorations_CaseColor1_17
+  - first:
+      213: -963821200473216124
+    second: menuAmeliorations_CaseColor1_18
+  - first:
+      213: 8051839093650591015
+    second: menuAmeliorations_CaseColor1_19
+  - first:
+      213: 169909001605633683
+    second: menuAmeliorations_CaseColor1_20
+  - first:
+      213: 5199987210309212
+    second: menuAmeliorations_CaseColor1_21
+  - first:
+      213: 4369197114257131232
+    second: menuAmeliorations_CaseColor1_22
+  - first:
+      213: 4732279317331231179
+    second: menuAmeliorations_CaseColor1_23
+  - first:
+      213: -3391420632456462450
+    second: menuAmeliorations_CaseColor1_24
+  - first:
+      213: -1413696113241830341
+    second: menuAmeliorations_CaseColor1_25
+  - first:
+      213: 2047771523531121152
+    second: menuAmeliorations_CaseColor1_26
+  - first:
+      213: 8950134410819361795
+    second: menuAmeliorations_CaseColor1_27
+  - first:
+      213: -7475658310389494387
+    second: menuAmeliorations_CaseColor1_28
+  - first:
+      213: 4098923146748635624
+    second: menuAmeliorations_CaseColor1_29
+  - first:
+      213: 2800887529740271460
+    second: menuAmeliorations_CaseColor1_30
+  - first:
+      213: 3192061030762322526
+    second: menuAmeliorations_CaseColor1_31
+  - first:
+      213: -4443955416770700180
+    second: menuAmeliorations_CaseColor1_32
+  - first:
+      213: 6936487374248267994
+    second: menuAmeliorations_CaseColor_0
+  - first:
+      213: -4508862660772789482
+    second: menuAmeliorations_CaseColor_1
+  - first:
+      213: -1363263968634250747
+    second: menuAmeliorations_CaseColor_2
+  - first:
+      213: 3373872237425718076
+    second: menuAmeliorations_CaseColor_3
+  - first:
+      213: -2860669451974394851
+    second: menuAmeliorations_CaseColor_4
+  - first:
+      213: 4128000600964033970
+    second: menuAmeliorations_CaseColor_5
+  - first:
+      213: -5846079047043565631
+    second: menuAmeliorations_CaseColor_6
+  - first:
+      213: -355926634841779562
+    second: menuAmeliorations_CaseColor_7
+  - first:
+      213: -6322571393320311202
+    second: menuAmeliorations_CaseColor_8
+  - first:
+      213: 106375045214603367
+    second: menuAmeliorations_CaseColor_9
+  - first:
+      213: 1759857063672082052
+    second: menuAmeliorations_CaseColor_10
+  - first:
+      213: 6144947465855216440
+    second: menuAmeliorations_CaseColor_11
+  - first:
+      213: -5223009323233131989
+    second: menuAmeliorations_CaseColor_12
+  - first:
+      213: -5306074152349138900
+    second: menuAmeliorations_CaseColor_13
+  - first:
+      213: -8287753196652920443
+    second: menuAmeliorations_CaseColor_14
+  - first:
+      213: -1638889598320360828
+    second: menuAmeliorations_CaseColor_15
+  - first:
+      213: 7334010962893805010
+    second: menuAmeliorations_CaseColor_16
+  - first:
+      213: 3426370741509864660
+    second: menuAmeliorations_CaseColor_17
+  - first:
+      213: 8754456705533498906
+    second: menuAmeliorations_CaseColor_18
+  - first:
+      213: 3897557949003203458
+    second: menuAmeliorations_CaseColor_19
+  - first:
+      213: 3539852527134456768
+    second: menuAmeliorations_CaseColor_20
+  - first:
+      213: 5494422303655544394
+    second: menuAmeliorations_CaseColor_21
+  - first:
+      213: 1554822206153101876
+    second: menuAmeliorations_CaseColor_22
+  - first:
+      213: 5163941427732295023
+    second: menuAmeliorations_CaseColor_23
+  - first:
+      213: 4056427788253994750
+    second: menuAmeliorations_CaseColor_24
+  - first:
+      213: 2503575206016749950
+    second: menuAmeliorations_CaseColor_25
+  - first:
+      213: 1309231110842877179
+    second: menuAmeliorations_CaseColor_26
+  - first:
+      213: 305702316642498901
+    second: menuAmeliorations_CaseColor_27
+  - first:
+      213: 1777486132678294540
+    second: menuAmeliorations_CaseColor_28
+  - first:
+      213: -1653452438749621418
+    second: menuAmeliorations_CaseColor_29
+  - first:
+      213: -2580452491932500813
+    second: menuAmeliorations_CaseColor_30
+  - first:
+      213: -6483883695573459776
+    second: menuAmeliorations_CaseColor_31
+  - first:
+      213: 6379591140909049633
+    second: menuAmeliorations_CaseColor_32
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 1
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 157
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad0dc0b048a534060800000000000000
+      internalID: 6936487374248267994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_1
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 157
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6138d9b8c4d4d61c0800000000000000
+      internalID: -4508862660772789482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_2
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 157
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50a5776b4a6b41de0800000000000000
+      internalID: -1363263968634250747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_3
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 157
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c33ff45ace662de20800000000000000
+      internalID: 3373872237425718076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_4
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 157
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1c31473a4cdc48d0800000000000000
+      internalID: -2860669451974394851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_5
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 141
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bd6f0decaa994930800000000000000
+      internalID: 4128000600964033970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_6
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 141
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c73d10a41e8edea0800000000000000
+      internalID: -5846079047043565631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_7
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 141
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 692d7248c9e7f0bf0800000000000000
+      internalID: -355926634841779562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 141
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e56a812f0d6b148a0800000000000000
+      internalID: -6322571393320311202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_9
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 141
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7688bfe3a8be97100800000000000000
+      internalID: 106375045214603367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_10
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 125
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48ee2afdca44c6810800000000000000
+      internalID: 1759857063672082052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_11
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 125
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83bacb1b92d374550800000000000000
+      internalID: 6144947465855216440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_12
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 125
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b22c22671b42487b0800000000000000
+      internalID: -5223009323233131989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_13
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 125
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c200955dba90d56b0800000000000000
+      internalID: -5306074152349138900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_14
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 125
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5810567c06cfbfc80800000000000000
+      internalID: -8287753196652920443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 109
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4824802f79e7149e0800000000000000
+      internalID: -1638889598320360828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_16
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 109
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d51b1e0d14a7c560800000000000000
+      internalID: 7334010962893805010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_17
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 109
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4dcbc74290aec8f20800000000000000
+      internalID: 3426370741509864660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_18
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 109
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a165cd69df31e7970800000000000000
+      internalID: 8754456705533498906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_19
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 109
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 28306d1fd48e61630800000000000000
+      internalID: 3897557949003203458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_20
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 93
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cb3e155e15102130800000000000000
+      internalID: 3539852527134456768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_21
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 93
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a464f5779fb104c40800000000000000
+      internalID: 5494422303655544394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_22
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 93
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43215a60f86d39510800000000000000
+      internalID: 1554822206153101876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_23
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 93
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6d28e86e510aa740800000000000000
+      internalID: 5163941427732295023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_24
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 93
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe17efd4935b4830800000000000000
+      internalID: 4056427788253994750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_25
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 77
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e719a17a26c7eb220800000000000000
+      internalID: 2503575206016749950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_26
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 77
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf40eaa32c25b2210800000000000000
+      internalID: 1309231110842877179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_27
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 77
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5597d7623a21e3400800000000000000
+      internalID: 305702316642498901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_28
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 77
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0cf87b5836eaa810800000000000000
+      internalID: 1777486132678294540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_29
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 77
+        width: 39
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653535f64c1cd09e0800000000000000
+      internalID: -1653452438749621418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_30
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 60
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3bc77926124603cd0800000000000000
+      internalID: -2580452491932500813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_31
+      rect:
+        serializedVersion: 2
+        x: 122
+        y: 60
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cc9568c12e9406a0800000000000000
+      internalID: -6483883695573459776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: menuAmeliorations_CaseColor_32
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 60
+        width: 43
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 127ec16975cd88850800000000000000
+      internalID: 6379591140909049633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      menuAmeliorations_CaseColor_21: 5494422303655544394
+      menuAmeliorations_CaseColor_16: 7334010962893805010
+      menuAmeliorations_CaseColor_15: -1638889598320360828
+      menuAmeliorations_CaseColor_20: 3539852527134456768
+      menuAmeliorations_CaseColor_7: -355926634841779562
+      menuAmeliorations_CaseColor_2: -1363263968634250747
+      menuAmeliorations_CaseColor_26: 1309231110842877179
+      menuAmeliorations_CaseColor_19: 3897557949003203458
+      menuAmeliorations_CaseColor_25: 2503575206016749950
+      menuAmeliorations_CaseColor_1: -4508862660772789482
+      menuAmeliorations_CaseColor_14: -8287753196652920443
+      menuAmeliorations_CaseColor_4: -2860669451974394851
+      menuAmeliorations_CaseColor_29: -1653452438749621418
+      menuAmeliorations_CaseColor_28: 1777486132678294540
+      menuAmeliorations_CaseColor_17: 3426370741509864660
+      menuAmeliorations_CaseColor_13: -5306074152349138900
+      menuAmeliorations_CaseColor_9: 106375045214603367
+      menuAmeliorations_CaseColor_22: 1554822206153101876
+      menuAmeliorations_CaseColor_23: 5163941427732295023
+      menuAmeliorations_CaseColor_12: -5223009323233131989
+      menuAmeliorations_CaseColor_30: -2580452491932500813
+      menuAmeliorations_CaseColor_8: -6322571393320311202
+      menuAmeliorations_CaseColor_0: 6936487374248267994
+      menuAmeliorations_CaseColor_3: 3373872237425718076
+      menuAmeliorations_CaseColor_6: -5846079047043565631
+      menuAmeliorations_CaseColor_32: 6379591140909049633
+      menuAmeliorations_CaseColor_18: 8754456705533498906
+      menuAmeliorations_CaseColor_5: 4128000600964033970
+      menuAmeliorations_CaseColor_27: 305702316642498901
+      menuAmeliorations_CaseColor_10: 1759857063672082052
+      menuAmeliorations_CaseColor_11: 6144947465855216440
+      menuAmeliorations_CaseColor_31: -6483883695573459776
+      menuAmeliorations_CaseColor_24: 4056427788253994750
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

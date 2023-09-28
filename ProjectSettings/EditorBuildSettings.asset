@@ -1,0 +1,29 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/SplashScreen.unity
+    guid: a3a8aa212b14a004aaff773cef80d343
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/GameLauncher.unity
+    guid: e3544ab537b8953498cda4c668815a97
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/LoadingScreen.unity
+    guid: c2cffceb9721f0a41bb2e4508a9a2685
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/BDStartScinematic.unity
+    guid: 4dc13c66f7eaa9448aeec62fc49f0ff8
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/Tutoriel.unity
+    guid: 0ca5039d9bc7d004b86cad772f163d64
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/ScenePrincipale.unity
+    guid: 94b5781665cb0a840ae8951de4bfcc59
+  - enabled: 1
+    path: Assets/PhysiqueObject/Scene/FinalSpaceScene.unity
+    guid: 15a0674710d1462448fe3424d3aa68b1
+  m_configObjects: {}

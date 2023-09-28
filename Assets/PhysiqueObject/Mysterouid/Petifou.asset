@@ -1,0 +1,16 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 31f19736ce9bdd540ab9e7750b65feb7, type: 3}
+  m_Name: Petifou
+  m_EditorClassIdentifier: 
+  spr_Bloc: {fileID: 21300000, guid: 35de6abdf73bcb54db327d8d658cc952, type: 3}
+  spr_Museum: {fileID: 21300000, guid: e73bd95a1198aea42a0b7f29c2e270e1, type: 3}

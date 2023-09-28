@@ -1,0 +1,11 @@
+Low fuel!
+You can refill it at the <color=#FF0000>fuel station</color>. Watch out: if you empty your tank, you will get stuck in the mine and die!
+Cargo is full!
+You will not be able to collect what you further dig up! <color=#FF0000>Go sell</color> your blocks to regain some space.
+Last winch placed!
+If you want more, you can upgrade your Chain Stats or dig one of your winches.
+Welcome to the selling truck!
+You are on the tab to manage all prices and bonuses, and there is <color=#FF0000>another tab</color> to sell your blocks.
+Welcome to the smithy!
+To upgrade your stats, click on the <color=#FF0000>big circle buttons</color> to the top. The small rectangular ones are to check stats themselves.
+wait! it is necessary to first <color=#FF0000>install a winch</color> (double click).
